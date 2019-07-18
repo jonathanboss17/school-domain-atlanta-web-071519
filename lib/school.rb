@@ -31,6 +31,6 @@ cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"
 
 # puts cheese[9]
 
-cheese.each do |i|
-  puts i 
+cheese.each do |key, value|
+  puts value
 end
