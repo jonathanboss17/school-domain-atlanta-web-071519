@@ -30,12 +30,5 @@ class School
   
 end
 
-cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Kelly Kapowski", "Aardvark"], 11 => ["Screech", "Xavier"]}
-
-
-
-# cheese.each do |key, value|
-#   puts cheese[key].sort!
-# end
 
 
