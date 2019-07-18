@@ -35,4 +35,5 @@ cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Kelly Kapowski", "Aardvark"
 #   cheese[key].sort
 # end
 
+cheese[10].sort 
 puts cheese
