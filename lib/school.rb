@@ -32,7 +32,7 @@ cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Kelly Kapowski", "Aardvark"
 # puts cheese[9]
 
 cheese.each do |key, value|
-  puts cheese[key].sort(value)
+  puts cheese[key].sort
 end
 
 
