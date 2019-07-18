@@ -23,14 +23,14 @@ class School
   end
   
   def sort 
-    keys = roster.keys
-    roster.size.times do |i|
-      roster[i][keys[i]].sort
-    end
   end
   
 end
 
 cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}
 
-puts cheese[9]
+# puts cheese[9]
+
+cheese.each do |i|
+  puts i 
+end
