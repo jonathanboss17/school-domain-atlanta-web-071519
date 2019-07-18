@@ -27,7 +27,7 @@ class School
   
 end
 
-cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}
+cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Kelly Kapowski", "Aardvark"], 11 => ["Screech", "Xavier"]}
 
 # puts cheese[9]
 
