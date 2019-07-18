@@ -33,5 +33,5 @@ end
 
 cheese = {9 => ["AC Slater", "Zach Morris"], 10 => ["Aardvark", "Kelly Kapowski"], 11 => ["Screech", "Xavier"]}
 keys = cheese.keys
-
+put keys
 
